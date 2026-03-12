@@ -2,11 +2,12 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:** Tom
+- **Name:** 刘林峰
+- **Nickname:** Tom
 - **What to call them:** Tom
 - **Pronouns:** —
-- **Timezone:** 待确认
-- **Notes:** AI 时代的创业者，想做有趣的产品
+- **Timezone:** Asia/Shanghai
+- **Notes:** AI 时代的创业者，想做有趣的产品。Building Castles In the Sky.
 
 ## Context
 
